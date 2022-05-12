@@ -10,6 +10,7 @@ Ahora en su tercera década de existencia, el lenguaje SQL ofrece una gran flexi
 Con el avance en la tecnología de base de datos de aplicaciones basadas en SQL se ha vuelto cada vez más asequible para el usuario normal. Esto se debe a la introducción de diversas soluciones de bases de datos SQL de código abierto como MySQL, PostgreSQL, SQLite, Firebird, y muchos más.  
 
 
+![descarga](https://user-images.githubusercontent.com/101212784/168115276-292d50eb-3fba-4e75-82e8-a5abbef8e409.png)
 
 
 
