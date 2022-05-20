@@ -74,5 +74,6 @@ constan de un ***título*** y una ***extensión***.
 ● Para cada ***revista***, almacenaremos información de cada ejemplar, que incluirá la
 ***fecha***, ***número de páginas*** y el ***número de ejemplares vendidos***.
 
-![image](https://user-images.githubusercontent.com/101212784/169092188-0f690f4b-5b6a-4c87-a326-b867b07ec6ab.png)
+![image](https://user-images.githubusercontent.com/101212784/169561540-fcbfc723-f3ae-4fb0-9ad3-bcfb1dd04fe7.png)
+
 
