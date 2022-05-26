@@ -77,7 +77,7 @@ Tienda de informática
 ![image](https://user-images.githubusercontent.com/91554777/170415101-717bca19-3644-46a9-8a57-8d5940c5d283.png)
 ![image](https://user-images.githubusercontent.com/101212784/170520824-c519ce46-3440-47d7-92c0-78ded7902da9.png)
 
-
+https://www.db-fiddle.com/f/5rxg2YVjZRxpTmFV63Sf83/0
 
 
 
