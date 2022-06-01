@@ -34,3 +34,5 @@ un código de categoría único.
 
 
 https://www.db-fiddle.com/f/agyrwGTSNmGk6EVdKVzJB9/0
+
+https://www.db-fiddle.com/f/agyrwGTSNmGk6EVdKVzJB9/3
