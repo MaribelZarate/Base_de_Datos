@@ -28,8 +28,11 @@ Objetivo: Demostrar el uso y aplicación en una base de datos para mejorar la ge
 
 Ejercicio:
 
+https://www.db-fiddle.com/f/a6nE9hcfyxuZeDzvWR5XZ8/1
+
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
 
+![1](https://user-images.githubusercontent.com/101212784/172399388-0ecf25ca-ed8b-48ce-b70a-e1826ad48034.JPG)
 
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
@@ -39,17 +42,24 @@ productos que tiene. Ordene el resultado descendentemente por el número de
 productos. (valor 4.5)
 
 
+![2](https://user-images.githubusercontent.com/101212784/172399899-c7f564d8-4442-4c3e-a150-1e02b525c84e.JPG)
+
+
 3. Muestra el precio máximo, precio mínimo y precio medio de los productos de cada
 uno de los fabricantes. El resultado mostrará el nombre del fabricante junto con los
 datos que se solicitan. (valor 4.5)
 
 
 
+![3](https://user-images.githubusercontent.com/101212784/172400304-9e977941-8e5a-4c47-b25f-878bb7a2b94b.JPG)
 
 
 4. Muestra el nombre de cada fabricante, junto con el precio máximo, precio mínimo,
 precio medio y el número total de productos de los fabricantes que tienen un precio
 medio superior a 200€. Es necesario mostrar el nombre del fabricante. (valor 4.5)
+
+![4](https://user-images.githubusercontent.com/101212784/172400609-26867ddb-66f1-43e3-8897-da724abfe2ae.JPG)
+
 
 ## Práctica 8.
 ### Disparadores (Triggers)
